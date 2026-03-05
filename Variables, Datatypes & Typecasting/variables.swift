@@ -127,8 +127,6 @@ optionalValue ?? defaultValue
 */
 
 /*
-
-
 1. Difference between var and let?
    - var: mutable
    - let: immutable (constant)
